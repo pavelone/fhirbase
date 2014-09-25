@@ -23,7 +23,7 @@ which is build with [FHIRPlace](https://github.com/fhirbase/fhirplace/) & [FHIRF
 
 While crafting Health IT systems you begin to understand a value of properly chosen domain model.
 FHIR is an open source new generation lightweight standard for health data interoperability,
-which (we hope) could be used as a foundationan for Health IT systems. FHIR is based on a concept of __resource__.
+which (we hope) could be used as a foundation for Health IT systems. FHIR is based on a concept of __resource__.
 
 > FHIR® is a next generation standards framework created by HL7.
 > FHIR combines the best features of HL7 Version 2,
